@@ -1,5 +1,4 @@
 import chess
-import matplotlib.pyplot as plt
 
 def initialize():
     board = chess.Board()
